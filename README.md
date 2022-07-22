@@ -14,11 +14,11 @@ the script will install and start the docker and minikube
 
 
 # Installing packages
-brew
-docker
-docker-compose
-hyperkit
-minikube
+1.brew
+2.docker
+3.docker-compose
+4.hyperkit
+5.minikube
 
 # Everytime 
 
