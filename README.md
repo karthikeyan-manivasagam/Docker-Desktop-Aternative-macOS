@@ -7,7 +7,7 @@
 Download or clone the minikube.command file and execute the below
 
 chmod +x minikube.command
-
+then double click minikube.command
 the script will install and start the docker and minikube
 
 
