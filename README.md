@@ -1,16 +1,17 @@
 # Docker-Desktop-Aternative-macOS
 
 
-
 # Instructions
 
-Download or clone the minikube.command file and execute the below
+# 1. Download or clone the minikube.command file 
 
-chmod +x minikube.command
+# 2. Execute the below
+  
+  chmod +x path\to\minikube.command
 
-then double click minikube.command
+# 3. Then double click minikube.command file
 
-the script will install and start the docker and minikube
+ rhe file will install and start the docker and minikube
 
 
 # Installing packages
@@ -24,7 +25,7 @@ the script will install and start the docker and minikube
 
 5.minikube
 
-# Everytime 
+# Everytime just double click
 
 Just double click the minikube.command it will start the minikube and docker. 
 
