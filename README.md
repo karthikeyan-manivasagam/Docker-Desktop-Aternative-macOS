@@ -22,6 +22,8 @@ the script will install and start the docker and minikube
 
 # Everytime 
 
-Just double click the minikube.command it will start the minikube and docker first time alone it will take time to install packages
+Just double click the minikube.command it will start the minikube and docker. 
 
-# note: this script is for MACOS
+First time alone it will take time to install packages
+
+# This script is for MACOS with intel arch
