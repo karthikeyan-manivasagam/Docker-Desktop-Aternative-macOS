@@ -39,4 +39,9 @@ do
    checkandinstall "$i"
 
 done
+#configure docker for issue fix
+rm ~/.docker/config.json
+echo '{
+  "credStore" : "desktop"
+}' >> ~/.docker/config.json
 startminikube
